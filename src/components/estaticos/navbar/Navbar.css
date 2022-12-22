@@ -1,0 +1,26 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.center{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.mexer{
+    margin-right: 2%;
+}
+
+.mexer2{
+    margin-right: 2%;
+}
+
+.navCor{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(6, 40, 47) 0%, rgb(14, 46, 62) 2%, rgb(5, 88, 113) 35%, rgb(18, 74, 111) 47%, rgb(19, 94, 131) 65%, rgb(15, 86, 108) 74%, rgb(21, 107, 157) 89%, rgb(15, 97, 152) 100%);}
